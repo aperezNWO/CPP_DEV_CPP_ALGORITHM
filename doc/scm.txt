@@ -1,0 +1,7 @@
+echo "# CPP_DEV_CPP_ALGORITHM" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/aperezNWO/CPP_DEV_CPP_ALGORITHM.git
+git push -u origin main
